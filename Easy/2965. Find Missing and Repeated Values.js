@@ -1,4 +1,9 @@
 // 2965. Find Missing and Repeated Values
+
+/**
+ * Time Complexity: O(n^2)
+ * Space Complexity: O(n^2)
+*/
 /**
  * @param {number[][]} grid
  * @return {number[]}
