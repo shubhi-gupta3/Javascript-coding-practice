@@ -18,3 +18,5 @@ function selectionSort(nums) {
     }
     return nums;
 }
+
+console.log(selectionSort([5, 2, 3, 1, 4])); // [1, 2, 3, 4, 5]
