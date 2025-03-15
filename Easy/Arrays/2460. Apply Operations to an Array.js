@@ -1,6 +1,12 @@
 //2460. Apply Operations to an Array
 
 /**
+ * Approach : Using Two Pointer Approach
+ * Time complexity: O(n)
+ * Space complexity: O(1)
+ */
+
+/**
  * @param {number[]} nums
  * @return {number[]}
  */
